@@ -1,0 +1,75 @@
+body{font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti, "Microsoft YaHei";
+	font-size: 12px;}
+.mt50{margin-top:50px;}
+.pd0{padding: 0px;}
+.pd10{padding: 10px;}
+.pd-r8{padding-right: 8px;}
+.pd-tb-10{padding-top: 10px;padding-bottom: 10px;}
+.margin-left-5{
+	margin-left: 5px;
+}
+.padding-left-32{
+	padding-left: 32px;
+}
+.text-size-32{
+	font-size: 32px !important;
+}
+.overHidden{
+	overflow: hidden;
+}
+.console-sidebar{
+	border-right: 1px solid #dddddd;
+}
+.console-nav{
+	margin-right: 4px;
+}
+.navbar-brand img{
+		width: 22px;
+		height: 22px;
+		display: block;
+		margin: 0px
+	}
+
+.main-header{
+	padding: 8px 0px;
+	border-bottom: 1px solid #DDD;
+}
+.main-header h5{
+	border-left: 2px solid #88B7E0;
+	text-indent: 8px;
+}
+.li-underline li{
+	border-bottom: 1px solid #DDD;
+	padding:4px 0;
+}
+.li-underline li a{
+	color: #333;
+	background-color: #fff;
+	padding:6px 16px;
+}
+.li-underline li.active a,.li-underline li.active a:hover{
+	color: #fff;
+	border-left: 2px solid #F90;
+	background-color: #313844;
+}
+
+.li-underline>li>a:hover, .li-underline>li>a:focus{
+	border-left: 2px solid #F90;
+	background-color: #fff;
+}
+.text-sm{
+	font-size: 0.98em;
+}
+.text-xs{font-size: 0.5em;}
+
+
+/*special*/
+.bdl-list{
+	border-left: 4px solid #6d7781 !important;
+}
+.bdl-0{
+	border-left: none !important;
+}
+
+
+
